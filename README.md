@@ -19,4 +19,6 @@ Protecting health means protecting information.
 
 ## 🔗 Let’s Connect
 - Blog : https://seclabdotblog.wordpress.com/
-- X : https://x.com/FUJI0213020x
+- X : https://x.com/SecLifeHQ
+- YouTube : https://www.youtube.com/@SustainableSecurityLife
+- Gravatar : https://gravatar.com/sustainablesecuritylife
